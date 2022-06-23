@@ -1,0 +1,2 @@
+# NER-Project---Identify-Payment-Term
+Identify payment term present in the given text Imported Jason file which consist of text along with starting and ending index number of payment term First seperated train and test data, converted train data into required format, loaded inbuild Spacy model, setup pipeline Disabled unnecessary pipeline, updated Spacy model with new data and saved the model And tested on the test data and detected the payment term present in it
